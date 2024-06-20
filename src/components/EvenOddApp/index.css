@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.main-card {
+  height: 400px;
+  width: 400px;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.last-text {
+  font-size: 12px;
+}
+.button {
+  height: 35px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.main-text {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: large;
+  font-weight: 500;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
